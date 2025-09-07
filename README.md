@@ -1,4 +1,4 @@
-<img width="1856" height="371" alt="Screenshot 2025-09-07 220605" src="https://github.com/user-attachments/assets/626b42a7-5796-4780-8962-9664fdb70714" /># Ex.No:1a  			Study of Socket Programming
+# Ex.No:1a  			Study of Socket Programming
 
 ## Aim: 
 To perform a study on Socket Programming
